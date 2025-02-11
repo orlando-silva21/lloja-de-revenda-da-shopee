@@ -1,0 +1,10 @@
+/meu-site
+│── index.html        # Página principal do site
+│── style.css         # Estilos opcionais
+│── script.js         # Scripts opcionais
+│── README.md         # Documentação opcional
+│── .gitignore        # Arquivos para ignorar no Git
+│── CNAME             # (Opcional) Domínio personalizado
+│── assets/           # Pasta para imagens, fontes, etc.
+│── docs/             # Caso queira uma documentação extra
+│── .nojekyll         # (Opcional) Para desativar o Jekyll
